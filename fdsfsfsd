@@ -1,0 +1,134 @@
+[33mcommit 178f82c16b3842d8b86802dde8aeee226c929ae4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;32mGenerateWord[m[33m)[m
+Author: Krzysztof <ksieja@student.agh.edu.pl>
+Date:   Sat Jan 31 10:56:34 2026 +0100
+
+    GenerateWord gotowe !
+
+[33mcommit 0e9e476af66e5006eabf021944b68d3da62e79e4[m
+Author: Krzysztof <ksieja@student.agh.edu.pl>
+Date:   Sat Jan 31 10:51:18 2026 +0100
+
+    trzeci commit
+
+[33mcommit 5d5f6a51504c5c5a612dfb69998b597dbfa39007[m
+Author: Krzysztof <ksieja@student.agh.edu.pl>
+Date:   Sat Jan 31 10:29:27 2026 +0100
+
+    pierwszy commit
+
+[33mcommit f4da50e76163a55e8f5bc844c32069c5b5c00e66[m[33m ([m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sun Feb 4 10:28:03 2024 +0100
+
+    Upgrade java version
+
+[33mcommit 20840c08267ac628e2321a2bfb7aa4fb8b798a57[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sun Feb 6 12:18:35 2022 +0100
+
+    Add invitation suggestion
+
+[33mcommit c321c6b6519baf4c0b17ebd82dc6c3e78c48fdb6[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sun Feb 6 07:38:32 2022 +0100
+
+    Better financing
+
+[33mcommit e14f5240fe6d6246291da70644a91e9c3bfde330[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sat Feb 5 22:34:46 2022 +0100
+
+    Change path to manage collaborators
+
+[33mcommit c784054265e4ef31d440d748bacfc70cb0cdf74b[m
+Author: dependabot[bot] <49699333+dependabot[bot]@users.noreply.github.com>
+Date:   Tue Oct 13 19:34:51 2020 +0000
+
+    Bump junit from 4.12 to 4.13.1
+    
+    Bumps [junit](https://github.com/junit-team/junit4) from 4.12 to 4.13.1.
+    - [Release notes](https://github.com/junit-team/junit4/releases)
+    - [Changelog](https://github.com/junit-team/junit4/blob/main/doc/ReleaseNotes4.12.md)
+    - [Commits](https://github.com/junit-team/junit4/compare/r4.12...r4.13.1)
+    
+    Signed-off-by: dependabot[bot] <support@github.com>
+
+[33mcommit 32a84f57d5d3f56b14084fcb50f32c5c6f7fcb4d[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sun Mar 1 09:24:54 2020 +0100
+
+    Add missing modelVersion
+
+[33mcommit f0f2ce1e5229f1a133ac99ff7cabe6e890e241db[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sat Feb 29 22:41:34 2020 +0100
+
+    Simpler requirements
+
+[33mcommit 32f5cfe9b732ffcaca6b2c3753fb454f5f1dca20[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sun Feb 16 13:39:50 2020 +0100
+
+    Update README.md
+
+[33mcommit ded17e12cfaddef6f33ddd35de8ef1cfc6f4e962[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sun Feb 16 13:38:34 2020 +0100
+
+    Revert "Update README.md"
+    
+    This reverts commit f94f39b52c0c36e001bf0729b424a60dd4ac28f8.
+
+[33mcommit f94f39b52c0c36e001bf0729b424a60dd4ac28f8[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sun Feb 16 13:37:19 2020 +0100
+
+    Update README.md
+
+[33mcommit 9d5d3760f3ee635c23c059dfa442d93bb9df3757[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sun Feb 16 13:35:04 2020 +0100
+
+    Sample test
+
+[33mcommit 988b9853570cc36a1957dd89b489407126e1b2e6[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sun Feb 16 13:20:09 2020 +0100
+
+    Update README.md
+
+[33mcommit ca3c666bfed8d5b0d804440f6b103737b7abaed6[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sun Feb 16 13:15:32 2020 +0100
+
+    Update README.md
+
+[33mcommit 870187623e5d5fd8e77ba7830f7d4f5722f8c04b[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sun Feb 16 13:11:29 2020 +0100
+
+    Create README.md
+
+[33mcommit a4a5334abed037ecd03282fa20a63efb81a1f9ff[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sun Feb 16 12:56:59 2020 +0100
+
+    Requirements images
+
+[33mcommit c209e7bc00837f979a5da55ae9593d971f39f7be[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sun Feb 16 11:48:09 2020 +0100
+
+    Remove unused imports from Hangman
+
+[33mcommit 32bd37605c6d082f0e6cc67f664a1d9463611988[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sun Feb 16 11:44:41 2020 +0100
+
+    Move slowa.txt to src/main/resources
+
+[33mcommit 005b3b060e696e481006cca9153bd1723879c681[m
+Author: Wojciech Frącz <fraczwojciech@gmail.com>
+Date:   Sun Feb 16 11:43:15 2020 +0100
+
+    Initial version
