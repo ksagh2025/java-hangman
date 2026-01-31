@@ -12,13 +12,7 @@ public class RenderHangman {
         this.word = word;
     }
 
-    public String render() {
-        int failedAttempts = word.getFailedAttempts();
-
-        // zabezpieczenie przed wyjściem poza zakres tablicy
-        if (failedAttempts < 0) {
-            failedAttempts = 0;
-        }
+    public String render(int failedAttempts) {
 
         if (failedAttempts >= Hangman.HANGMANPICS.length) {
             failedAttempts = Hangman.HANGMANPICS.length - 1;
