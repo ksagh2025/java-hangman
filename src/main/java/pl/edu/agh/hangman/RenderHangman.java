@@ -6,11 +6,11 @@ public class RenderHangman {
     // Zwracam krok z tablicy HANGMANPICS odpowiadający liczbie błędnych prób
     
     
-    private final Word word;
+    //private final Word word;
 
-    public RenderHangman(Word word) {
-        this.word = word;
-    }
+    //public RenderHangman(Word word) {
+    //    this.word = word;
+    //}
 
     public String render(int failedAttempts) {
 
