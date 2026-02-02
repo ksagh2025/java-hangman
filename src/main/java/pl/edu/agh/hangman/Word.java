@@ -2,12 +2,13 @@ package pl.edu.agh.hangman;
 
 public class Word {
 
-    public char [] createTableWylosowaneSlowo(String word){
-        char [] tablicaWylosowanychSlowo = word.toCharArray();
-        return  tablicaWylosowanychSlowo;
+
+
+    public char [] createRandomWordTable(String word){
+        return word.toLowerCase().toCharArray();
     }
 
-    public char[] createTableOfWordToGuess (char[] table) {
+    public char[] createWordToGuessTable(char[] table) {
 
         int wordLength = table.length;
         char [] guess = new char[wordLength];
@@ -30,6 +31,7 @@ public class Word {
         for (int i = 0; i < table.length; i++) {
             if (table[i] == letter) {
                 found = true;
+                break;
             } else {
                 found = false;
             }
@@ -37,13 +39,13 @@ public class Word {
         return found;
     }
 
-    public char[] completeWordToGuess(char[] tableWylosowaneSlowo, char[] tablicaSlowoDoZgadniecia, char letter) {
+    public char[] completeWordToGuess(char[] randomWordTable, char[] wordToGuessTable, char letter) {
 
-        for (int i = 0; i < tableWylosowaneSlowo.length; i++) {
-            if (tableWylosowaneSlowo[i] == letter) {
-                tablicaSlowoDoZgadniecia[i] = letter;
+        for (int i = 0; i < randomWordTable.length; i++) {
+            if (randomWordTable[i] == letter) {
+                wordToGuessTable[i] = letter;
             }
         }
-        return tablicaSlowoDoZgadniecia;
+        return wordToGuessTable;
     }
 }
